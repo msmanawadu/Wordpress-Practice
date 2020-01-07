@@ -1,0 +1,12 @@
+/*
+Theme name: Twenty Seventeen Child
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
+
+.site-content-contain {
+    background-color: orange;
+    color: green;
+}
