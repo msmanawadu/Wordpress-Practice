@@ -7,6 +7,6 @@ Template: twentyseventeen
 @import url('../twentyseventeen/style.css');
 
 .site-content-contain {
-    background-color: orangered;
+    background-color: cyan;
     color: green;
 }
